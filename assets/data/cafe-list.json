@@ -1,0 +1,29 @@
+[
+  {
+    "cafe_id": "1",
+    "cafe_name": "온더플랜커피랩",
+    "cafe_main_img_url": "https://mblogthumb-phinf.pstatic.net/MjAyMjA2MjRfMjg0/MDAxNjU2MDgxMzE3NDE3.NFBvd6nlx2HCHiXRshLgm8PBkeOzW77GHjNj-MoAP2Eg.UCyMfRao6AK8Vv8IMU337apR9IfY0cmr5wex5Z8IT2wg.JPEG.mynameisjju/20220611＿115326.jpg?type=w800",
+    "cafe_type": "대형카페",
+    "cafe_location": [37.5666805,126.9784147],
+    "cafe_time": ["09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00"],
+    "cafe_style": ["넓어요","BGM","저렴해요"]
+  },
+  {
+    "cafe_id": "2",
+    "cafe_name": "헤베커피",
+    "cafe_main_img_url": "https://bwissue.com/files/attach/images/50381/721/619/001/1223dde5e3d877d53af4fc86b11f874f.png",
+    "cafe_type": "대형카페",
+    "cafe_location": [37.561261210,126.994172534],
+    "cafe_time": ["09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00","09:00 - 23:00"],
+    "cafe_style": ["넓어요","BGM","저렴해요"]
+  },
+  {
+    "cafe_id": "3",
+    "cafe_name": "투썸플레이스",
+    "cafe_main_img_url": "https://bwissue.com/files/attach/images/50381/721/619/001/1223dde5e3d877d53af4fc86b11f874f.png",
+    "cafe_type": "대형카페",
+    "cafe_location": [37.559901686,126.942906303],
+    "cafe_time": ["09:00 - 22:00","09:00 - 22:00","09:00 - 22:00","09:00 - 22:00","09:00 - 22:00","00:00 - 24:00","00:00 - 24:00"],
+    "cafe_style": ["넓어요","BGM","저렴해요"]
+  }
+]

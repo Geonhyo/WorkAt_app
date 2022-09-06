@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "383226856498",
+    "project_id": "work-cafe-4d491",
+    "storage_bucket": "work-cafe-4d491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383226856498:android:79e02a72bc339a544fa82b",
+        "android_client_info": {
+          "package_name": "com.geonhyopark.workat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383226856498-jitn479pir13fj6oqt4v85la52ga0aid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geonhyopark.workat",
+            "certificate_hash": "113375494bf71cd5bb2e2a2bbd7fa14174120970"
+          }
+        },
+        {
+          "client_id": "383226856498-27u3991dmkrtr8bribppra8f94tfidi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhv4XdV8jyEICUiAPtNYeIrofyUEF1pt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383226856498-27u3991dmkrtr8bribppra8f94tfidi7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383226856498-094ruekloj2sgmf23n5l8t1keidjesht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geonhyopark.workat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383226856498:android:ef17c51c6ee93b854fa82b",
+        "android_client_info": {
+          "package_name": "com.workcafe.workcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383226856498-27u3991dmkrtr8bribppra8f94tfidi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhv4XdV8jyEICUiAPtNYeIrofyUEF1pt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383226856498-27u3991dmkrtr8bribppra8f94tfidi7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383226856498-094ruekloj2sgmf23n5l8t1keidjesht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geonhyopark.workat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
